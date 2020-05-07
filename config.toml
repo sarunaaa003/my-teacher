@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://master.d21605t5ng2nsa.amplifyapp.com"
 theme = "../.."
 builddrafts = true
 canonifyurls = true
