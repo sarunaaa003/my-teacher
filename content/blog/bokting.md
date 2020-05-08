@@ -13,7 +13,7 @@ I thought I need to share this along with some of your favorite things as a virt
 
 **These flowers are for you since you like Daisy's.**
 
-![image](/img/daisy1.jpg)
+![image](//img/daisy1.jpg)
 
 Also here is a book you might like reading : [pdf](/doc/the-great-gatsby.pdf)
 
