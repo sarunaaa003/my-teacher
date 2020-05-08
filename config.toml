@@ -14,6 +14,7 @@ pluralizelisttitles = true
 
 [permalinks]
 blog = "blog/:slug/"
+img = "img/:slug/"
 
 [params]
 dateform = "Jan 2, 2006"
