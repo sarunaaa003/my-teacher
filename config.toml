@@ -9,7 +9,7 @@ publishdir = "public"
 author = "Vrindha Arun Kumar"
 title = "  Thoughts of Vrindha"
 disqusshortname = ""
-pluralizelisttitles = true
+pluralizelisttitles = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
