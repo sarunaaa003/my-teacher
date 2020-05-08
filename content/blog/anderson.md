@@ -15,6 +15,8 @@ I thought I need to share this along with some of your favorite things as a virt
 
 ![image](/img/rose1.jpg)
 
+![image](/img/rose1.jpg)
+
 Also here is a book you might like : [pdf](/doc/mexican.pdf)
 
 I hope you are taking care of yourself and I wish  you go to your favorite lakes once this quarantine is over until then enjoy this lake.
