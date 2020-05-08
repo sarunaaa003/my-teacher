@@ -9,7 +9,7 @@ best: true
 
 I miss you during this quarantine, one example that I miss you is you walking in the class and greeting us in the morning with a big smile and wishing us good morning.
 
-Nowadays, I like the way you help me by sending emails to my parents, they are lot of information on them and helped me to prepare for my online classes.
+Nowadays, I like the way you help me by sending emails to my parents, there are lot of information on them and helped me to prepare for my online classes.
 
 I thought I need to share this along with some of your favorite things as a virtual gift.
 

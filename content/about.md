@@ -7,4 +7,4 @@ I personally learned a lot when I was creating this website about simple key tri
 
 I also like to thank Internet Archives and all the Youtube channels from where I was able to use their materials in my blog.
 
-ALso thank my dad for helping me through this process
+Also thank my dad for helping me through this process
