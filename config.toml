@@ -8,13 +8,12 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "Vrindha Arun Kumar"
 title = "  Thoughts of Vrindha"
-# disqusshortname = ""
+disqusshortname = ""
 pluralizelisttitles = true
-# disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
 blog = "blog/:slug/"
-img = "img/:slug/"
 
 [params]
 dateform = "Jan 2, 2006"
