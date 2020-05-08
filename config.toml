@@ -24,7 +24,7 @@ copyright = "Copyright © 2020-{year} Vrindha Arun Kumar"
 logofile = "img/tree1.jpg"
 faviconfile = "img/tree.jpg"
 highlightjs = true
-progressively = true
+progressively = false
 share = true
 # Share to googleplus, twitter, fb, linkedin by default
 # disable by setting share_on_<social network> = false
